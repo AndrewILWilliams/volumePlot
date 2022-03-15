@@ -5,7 +5,9 @@ dependencies:
   - python=3.7
   - matplotlib
   - numpy
-  - xarray
+  - xarray=0.16.1
   - scipy
-  - skimage
+  - netcdf4
+  - ipykernel
+  - scikit-image
 prefix: /opt/anaconda3/envs/volumePlot
