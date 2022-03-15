@@ -1,0 +1,11 @@
+name: volumePlot
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - numpy
+  - xarray
+  - scipy
+  - skimage
+prefix: /opt/anaconda3/envs/volumePlot
